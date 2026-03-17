@@ -4,7 +4,7 @@ This README provides a step-by-step guide for migrating Test Plans and Test Case
 
 ---
 
-## Table of Contents 2
+## Table of Contents 22
 1. Prerequisites
 2. Export Test Plan Keys from Jira DC
 3. Prepare Issue Keys for Batch Processing
